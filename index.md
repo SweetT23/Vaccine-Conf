@@ -1,7 +1,7 @@
 # Welcome to My Website
 ***Welcome*** to my website
 
-[Info](About)
+[About Me](Info)
 
 ## Puppies
 
