@@ -28,3 +28,6 @@ My name is Cherry
 ## Puppies
 
 ![Yorkie Puppy](https://www.publicdomainpictures.net/pictures/150000/velka/cute-white-pomeranian-puppy.jpg)
+
+## Favourite Landscape
+![Favourite Landscape](Image.jpg)
