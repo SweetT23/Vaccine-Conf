@@ -1,9 +1,10 @@
 # Welcome to My Website
-***Welcome***to my website
+***Welcome*** to my website
 
 
 ## About Me
 
+My name is Cherry
 
 ### Hobbies
 - Reading
@@ -11,6 +12,7 @@
 - Watching Shows
 
 ### Dislikes
+
 - Spiders
 - Snakes
 
@@ -22,3 +24,7 @@
 ### Favourite Links
 
 - [Youtube](https://www.youtube.com)
+
+## Puppies
+
+![Yorkie Puppy](https://www.publicdomainpictures.net/pictures/150000/velka/cute-white-pomeranian-puppy.jpg)
